@@ -14,7 +14,6 @@
         android:background="#FFFF00"
         android:text="@string/hello_andrius"
         android:textColor="#00131212"
-        android:onClick ="showToast"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.511"
